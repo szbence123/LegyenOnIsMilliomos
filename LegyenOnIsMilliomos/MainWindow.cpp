@@ -13,10 +13,4 @@ void main(array<String^>^args) {
 	LegyenOnIsMilliomos::MainWindow form;
 	Application::Run(%form);
 
-
-	
-	
-
-	
-	
 }
